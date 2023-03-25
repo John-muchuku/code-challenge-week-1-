@@ -1,0 +1,35 @@
+
+<html>
+<head>
+	<title>Salary Calculator</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+	<div class="container">
+	<h1>Net Salary Calculator</h1>
+	<form>
+		<label for="basicSalary">Basic Salary:</label>
+		<input type="number" id="basicSalary" name="basicSalary"><br>
+
+		<label for="benefits">Benefits:</label>
+		<input type="number" id="benefits" name="benefits"><br>
+
+		<button type="button" onclick="calculate()">Calculate</button>
+	</form>
+	<br>
+
+	<h2>Salary Details</h2>
+	<p>Gross Salary: <span id="grossSalary"></span></p>
+	<p>Income Tax: <span id="incomeTax"></span></p>
+	<p>NHIF Deduction: <span id="nhifDeduction"></span></p>
+	<p>NSSF Deduction: <span id="nssfDeduction"></span></p>
+	<p>Total Deductions: <span id="totalDeductions"></span></p>
+	<p>Net Salary: <span id="netSalary"></span></p>
+	</div>
+
+	<script src="index.js"></script>
+
+
+</body>
+</html>

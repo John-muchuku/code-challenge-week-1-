@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+background-image: url(https://media.istockphoto.com/id/1249749650/photo/abstract-luxurious-polygonal-black-background-with-gold-accents-frame-for-text-3d-render.jpg?s=612x612&w=0&k=20&c=qL7pT_nqEUi94vW7f9Yg9kiJBLMU1Yr4lKrJ8OCz-No=);
+
+    }
+
+    h1 {
+font-family: Arial, Helvetica;
+margin: 5px;
+padding: 20px;
+text-align: center;
+    }
+
+    .container {
+        background-color: #e3ad18;
+        height: 80vh;
+        width: 65%;
+        margin: 200px auto;
+    }
+  
+  /* Style the form */
+  form {
+    display: inline-block;
+    text-align: left;
+    text-align: center;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+    margin-right: 10px;
+    text-align: center;
+  }
+  
+  input {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 200px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style the salary details */
+  h2 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-align: center;
+    
+  }
+  
+  span {
+    font-weight: bold;
+    text-align: center;
+
+  }
+  
+
+

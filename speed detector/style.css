@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1476445704028-a36e0c798192?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNwZWVkb21ldGVyJTIwcGF0dGVybnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60);
+    font-family: Arial, Helvetica;
+	margin: 0;
+	padding: 0;
+    
+    }
+
+h1 {
+	font-family: Arial, sans-serif;
+	margin: 5px;
+	padding: 20px;
+	text-align: center;
+	
+}
+
+    
+input {
+	font-size: 20px;
+	margin-left: 10px;
+	text-align: center;
+}
+
+button {
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+#result {
+	font-size: 21px;
+	margin-top: 75px;
+	text-align: center;
+}
+.container {
+    background-color:#0e5888  ;
+    height: 60vh;
+    width: 60%;
+    margin: 200px auto;
+    
+    }

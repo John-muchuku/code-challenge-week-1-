@@ -1,0 +1,55 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-image: url(https://media.istockphoto.com/id/921315052/photo/natural-wood-texture-background.jpg?s=612x612&w=0&k=20&c=Zyn0hMHbVspZBPf9e7SwCke29Ey5b2w5zhvHglrvIb8=)
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	margin: 5px;
+	padding: 20px;
+	text-align: center;
+	
+}
+
+label {
+	font-size: 20px;
+	margin-top: 20px;
+	text-align: center;
+
+}
+
+input {
+	font-size: 20px;
+	margin-left: 10px;
+	text-align: center;
+	
+}
+
+button {
+	font-size: 20px;
+	margin-left: 10px;
+	color: rgb(3, 2, 0);
+	
+}button:hover {
+    background-color: #0cf62f;
+}
+
+
+
+#result {
+	font-size: 21px;
+	margin-top: 75px;
+	text-align: center;
+}
+
+
+
+.container {
+background-color:#09a29e ;
+height: 60vh;
+width: 60%;
+margin: 200px auto;
+
+}
